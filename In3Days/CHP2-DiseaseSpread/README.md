@@ -1,3 +1,12 @@
-Here is the resulting images  ![SEIR Plot][Figures/SEIR-AnyLogic.png] and ![SEIR Plot][Figures/SEIR-Python.png].
+Here is the resulting images
 
-<img src="Figures/SEIR-AnyLogic.png" width="400">
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <figure>
+        Figure/SEIR-AnyLogic.png
+        <figcaption>Fig 1: SEIR-AnyLogic</figcaption>
+    </figure>
+    <figure>
+        Figure/SEIR-AnyLogic.png
+        <figcaption>Fig 2: SEIR-Python</figcaption>
+    </figure>
+</div>
