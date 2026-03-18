@@ -330,7 +330,7 @@
 				<Variable Class="Parameter">
 					<Id>1773751921267</Id>
 					<Name><![CDATA[AverageIllnessDuration]]></Name>
-					<X>700</X><Y>300</Y>
+					<X>650</X><Y>300</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -543,12 +543,12 @@
 					<Delay>false</Delay>
 				</Link>
 				<Link SourceId="1773751921267" TargetId="1773751708719" Polarity="null">
-					<Height>20.0</Height>
+					<Height>23.587</Height>
 					<PolarityPosition>0.95</PolarityPosition>
-					<Direction><X>-10</X><Y>-100</Y></Direction>
+					<Direction><X>40</X><Y>-100</Y></Direction>
 					<Id>1773811483891</Id>
 					<Name><![CDATA[AverageIllnessDuration - RecoveredRate]]></Name>
-					<X>700</X><Y>300</Y>
+					<X>650</X><Y>300</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
