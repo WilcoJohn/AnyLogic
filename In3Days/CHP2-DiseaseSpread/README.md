@@ -1,15 +1,12 @@
 Here is the resulting images
 
-
-<table>
-  <tr>
-    <td align="center">
-      Figure/SEIR-AnyLogic.png<br>
-      <em>Fig 1: SEIR-AnyLogic</em>
-    </td>
-    <td align="center">
-      Figure/SEIR-AnyLogic.png<br>
-      <em>Fig 2: SEIR-Python</em>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <figure>
+        Figures/SEIR-AnyLogic.png
+        <figcaption>Fig 1: SEIR-AnyLogic</figcaption>
+    </figure>
+    <figure>
+        Figures/SEIR-AnyLogic.png
+        <figcaption>Fig 2: SEIR-Python</figcaption>
+    </figure>
+</div>
