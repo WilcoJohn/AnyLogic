@@ -32,7 +32,7 @@ Early implementation of pedestrian queuing behavior at a waiting station.
 Improved and extended queuing logic with refined pedestrian flow dynamics.
 
 #### GIF Preview
-![Queuing Wait Station v2](display-contents/3-queuing-wait-station.gif)
+![Queuing Wait Station v2](display-contents/3-final-model.gif)
 
 
 ---
@@ -55,7 +55,6 @@ High-level visual design of the finalized model layout.
 
 ## 📌 Notes
 - GIFs are provided for quick previews.
-- MP4 is included where higher resolution or smoother playback is required.
 - All visuals are directly generated from simulation runs.
 
 ---
