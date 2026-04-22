@@ -24,7 +24,7 @@ Shows pedestrian interaction with security checkpoint service points.
 ### 2. Queuing – Waiting Station (Version 1)
 Early implementation of pedestrian queuing behavior at a waiting station.
 
-![Queuing Wait Station v1](display-contents/2-queuing-wait-station.gif)
+![Queuing Wait Station v1](display-contents/2-qeueing-wait-station.gif)
 
 ---
 
